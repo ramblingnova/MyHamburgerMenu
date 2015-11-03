@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Find People</item>
+        <item >Photos</item>
+        <item >Communities</item>
+        <item >Pages</item>
+        <item >What\'s Hot</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/temp_icon</item>
+        <item>@drawable/temp_icon</item>
+        <item>@drawable/temp_icon</item>
+        <item>@drawable/temp_icon</item>
+        <item>@drawable/temp_icon</item>
+        <item>@drawable/temp_icon</item>
+    </array>
+
+
+    <string name="desc_list_item_icon">Item Icon</string>
+</resources>
